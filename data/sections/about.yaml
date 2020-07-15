@@ -6,67 +6,67 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Graduate Student
+designation: Software Engineer
 # your company information
 company:
-  name: University of Washington
-  url: "https://www.washington.edu/"
+  name: Example Co.
+  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Chaman Gupta - Grad School Resume.pdf"
+resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'It is very hard to write summaries about yourself. Its like I have done so much but so little. And majorly I don't wanna bore you with this. Please give me some ideas to improve the website. I am a Research Assistant at [Pauzauskie Research Group](http://depts.washington.edu/pzlab/wordpress) '
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "chaman@uw.edu"
+  url: "example@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/professorchaman"
+  url: "https://www.github.com/example"
 
-#- name: Stackoverflow
-#  icon: "fab fa-stack-overflow"
-#  url: "#"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/professorchamangupta/"
+  url: "#"
 
-#- name: Twitter
-#  icon: "fab fa-twitter"
-#  url: "#"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
 
-#- name: Facebook
-#  icon: "fab fa-facebook"
-#  url: "#"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Science
-#  percentage: 85
+- name: Leadership
+  percentage: 85
   color: blue
-- name: Mathematics
-#  percentage: 90
+- name: Team Work
+  percentage: 90
   color: yellow
-- name: Happiness
-#  percentage: 85
+- name: Communication
+  percentage: 85
   color: pink
-- name: Awesomeness
-#  percentage: 85
+- name: Hard Working
+  percentage: 85
   color: green
-#- name: Fast Learner
-#  percentage: 85
-#  color: sky
-#- name: Problem Solving
-#  percentage: 85
-#  color: orange
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75
