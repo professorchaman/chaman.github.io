@@ -16,18 +16,18 @@ company:
 resume: "files/Chaman Gupta - Grad School Resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Writing about yourself sometime becomes so difficult. Its like you have done so much but also nothing. I am a Research Assistant at [Pauzauskie Research Group](http://depts.washington.edu/pzlab/wordpress/) and basically try to make diamonds'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "chaman@uw.edu"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/professorchaman"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -35,7 +35,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/professorchamangupta/"
 
 - name: Twitter
   icon: "fab fa-twitter"
