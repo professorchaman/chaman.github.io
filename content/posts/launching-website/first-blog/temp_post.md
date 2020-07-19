@@ -4,7 +4,7 @@ date: 2020-07-19T04:15:40+06:00
 hero: /images/posts/launching-website/launch_background.png
 author:
   name: Chaman Gupta
-  image: images/posts/launching-website/myAvatar_1.png
+  image: images/posts/launching-website/myAvatar.png
 categories:
 - launching-website
 - launching-website-temp_post
