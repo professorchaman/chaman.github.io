@@ -1,16 +1,16 @@
----
-title: "Template Post"
+﻿---
+title: "Website Launch"
 date: 2020-07-19T04:15:40+06:00
 hero: /images/posts/launching-website/launch_background.png
 author:
   name: Chaman Gupta
-#   image: /images/myAvatar.png
+#   image: /static/images/myAvatar.png
 categories:
-- writing-posts
-- writing-posts-markdown-guide
+- launching-website
+- launching-website-temp_post
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Launching a new website to share my portfolio and present my ideas to the world. I am also palnning to write blogs on topics which are interesting to me.
 <!--more-->
 
 ## Headings
