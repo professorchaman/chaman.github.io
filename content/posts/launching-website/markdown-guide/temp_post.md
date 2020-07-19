@@ -1,10 +1,10 @@
 ---
 title: "Template Post"
-date: 2020-06-08T06:15:40+06:00
-hero: /images/posts/writing-posts/code.svg
+date: 2020-07-19T04:15:40+06:00
+hero: /images/posts/launching-website/launch_background.png
 author:
   name: Chaman Gupta
-#   image: /assets/images/profile-image.jpg
+#   image: /images/myAvatar.png
 categories:
 - writing-posts
 - writing-posts-markdown-guide
