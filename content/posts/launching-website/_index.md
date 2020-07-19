@@ -1,5 +1,5 @@
 ---
 title: Launching Website
 id: launching-website
-weight: 9
+weight: 1
 ---
