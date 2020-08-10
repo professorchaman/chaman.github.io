@@ -6,6 +6,17 @@ section:
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
+  
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -13,6 +24,7 @@ skills:
 - name: Python
   icon: "images/skills/python.png"
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  tags: ["professional"]
 
 - name: MATLAB
   icon: "images/skills/matlab.png"
