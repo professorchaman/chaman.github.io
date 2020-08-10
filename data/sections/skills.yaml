@@ -11,11 +11,11 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python
-  icon: "images/skills/kubernetes.png"
+  icon: "images/skills/python.png"
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
 
 - name: MATLAB
-  icon: "images/skills/go.png"
+  icon: "images/skills/matlab.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
 
 - name: C/C++
@@ -23,11 +23,11 @@ skills:
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
 
 - name: FORTRAN
-  icon: "images/skills/docker.svg"
+  icon: "images/skills/fortran.png"
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
 
 - name: HTML and CSS
-  icon: "images/skills/prometheus.png"
+  icon: "images/skills/html.png"
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
 
 - name: Linux
