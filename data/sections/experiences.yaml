@@ -12,7 +12,7 @@ experiences:
 - company:
     name: Pauzauskie Research Group || University of Washington
     url: "http://depts.washington.edu/pzlab/wordpress/"
-    location: Seattle, WA
+    location: Seattle, WA, USA
     # company overview
     overview: Materials Science and Engineering, University of Washington
   positions:
@@ -22,9 +22,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - asdfasdf
-    - asdfa
+    - High Pressure diamond synthesis with color centers using a Diamond Anvil Cell
+    - High Pressure ODMR
 
  # - designation: Junior Software Engineer
  #   start: Nov 2017
@@ -37,26 +36,22 @@ experiences:
 - company:
     name: Novosselov Research Group
     url: "https://depts.washington.edu/nrglab/"
-    location: University of Washington Seattle, WA
-    overview: Conducting multidisciplinary research in areas of Aerosol Science, Combustion and Fluid Dynamics. We develop novel technologies related to particulates sampling and analysis and combustion pollution control.
+    location: Seattle, WA, USA
+    overview: Mechanical Engineering, University of Washington Seattle
   - designation: Graduate Research Student
     start: November 2019
  #   end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
+    - Micronization of polymers and pharmaceutical compounds using Supercritical Antisolvent Precipitation
+    
 - company:
-    name: Friction Stir Welding Lab, Indian Institute of Technology Kharagpur
+    name: Friction Stir Welding Lab
     url: "http://www.fswlab.in/"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    location: Kharagpur, WB, India
+    overview: Mechanical Engineering, Indian Institute of Technology Kharagpur
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Undergraduate Research Student
+    start: October 2015
+    end: May 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Friction stir welding of dissimilar materials
