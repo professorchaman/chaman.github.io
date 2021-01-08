@@ -16,10 +16,27 @@ experiences:
     # company overview
     overview: Materials Science and Engineering, University of Washington
   positions:
+  - designation: Research Scientist
+    start: January 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - High Pressure diamond synthesis with color centers using a Diamond Anvil Cell
+    - High Pressure ODMR
+
+
+- company:
+    name: Pauzauskie Research Group || University of Washington
+    url: "http://depts.washington.edu/pzlab/wordpress/"
+    location: Seattle, WA, USA
+    # company overview
+    overview: Materials Science and Engineering, University of Washington
+  positions:
   - designation: Research Assistant
     start: May 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - High Pressure diamond synthesis with color centers using a Diamond Anvil Cell
@@ -34,16 +51,28 @@ experiences:
  #   - Learn k,d,w technology for xyz.
 
 - company:
-    name: Novosselov Research Group
+    name: Novosselov Research Group || University of Washington
     url: "https://depts.washington.edu/nrglab/"
     location: Seattle, WA, USA
     overview: Mechanical Engineering, University of Washington Seattle
   positions:
   - designation: Graduate Research Student
     start: November 2019
- #   end: May 2017
+    end: December 2020
     responsibilities:
     - Micronization of polymers and pharmaceutical compounds using Supercritical Antisolvent Precipitation
+    
+- company:
+    name: Warwick Manufacturing Group
+    url: "https://warwick.ac.uk/fac/sci/wmg/"
+    location: Coventry, UK
+    overview: University of Warwick
+  positions:
+  - designation: Visiting Research Scientist
+    start: May 2018
+    end: July 2018
+    responsibilities:
+    - Mathematical Modelling of corossion rate prediction in UFSW
     
 - company:
     name: Friction Stir Welding Lab
@@ -55,4 +84,4 @@ experiences:
     start: October 2015
     end: May 2019
     responsibilities:
-    - Friction stir welding of dissimilar materials
+    - Friction stir welding of dissimilar materials    
