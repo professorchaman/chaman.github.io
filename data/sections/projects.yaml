@@ -20,14 +20,32 @@ buttons:
 
 # your projects
 projects:
+- name: Optically Detected Magnetic Resonance
+  #logo: images/projects/kubernetes.png
+  role: Principal Scientist
+  timeline: "May 2020 - Present"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: ODMR Spectrocopy for in-situ and ex-situ nanoscale thermometry at high pressure
+  tags: ["academic","DAC", "ODMR"]
+
 - name: Transition Metal Dichalcogenides
-  logo: images/projects/kubernetes.png
+  #logo: images/projects/kubernetes.png
   role: Team Lead
   timeline: "May 2020 - Present"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: High Pressure effects on Raman Spectrum and Pl emission mono and multi layer WSe2 TMDs
-  tags: ["professional", "dac", "tmd"]
+  tags: ["academic", "DAC", "TMD"]
+
+- name: HR-TEM Image Analysis Software
+  #logo: images/projects/kubernetes.png
+  role: Co-Creator
+  timeline: "May 2020 - Present"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Open-source Python based program for automated HR-TEM image analysis and phase prediction
+  tags: ["academic", "TEM"]
 
 #- name: Tensorflow
 #  logo: images/projects/tensorflow.png
