@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Graduate Student
+designation: Research Scientist
 # your company information
 company:
   name: University of Washington
@@ -16,7 +16,7 @@ company:
 resume: "files/Chaman Gupta - Grad School Resume.pdf"
 
 # a summary about you
-summary: 'Writing about yourself sometime becomes so difficult. Its like you have done so much but also nothing. I am a Research Assistant at [Pauzauskie Research Group](http://depts.washington.edu/pzlab/wordpress/) and basically try to make diamonds'
+summary: 'I am a Research Scientist at [Pauzauskie Research Group](http://depts.washington.edu/pzlab/wordpress/). I make diamonds in my lab.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
